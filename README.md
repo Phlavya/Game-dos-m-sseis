@@ -28,7 +28,7 @@ Pilote os aviões usando as setas e evite mísseis, vença sua melhor pontuaçã
 * Paint.Net (Image editting)
 
 
-- licenç
+
 
 
 
