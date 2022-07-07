@@ -29,10 +29,8 @@ Fly the planes using arrow keys and avoid missiles, beat your best score and las
 
 * Paint.Net (Image editting)
 
-## Contribution:
 
-Feel free to `fork` this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
+- licenç
 
-## Team:
 
-[Jetlighters](https://github.com/JetLightStudio) having fun.
+
