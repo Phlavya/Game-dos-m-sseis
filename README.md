@@ -11,11 +11,9 @@ Se divirta!!!!
 
 Uma replica do jogo "Mísseis", divertido jogo móvel 2D sobre como evitar o transpo enquanto pilota um avião.
 
-## Screenshot:
 
-<img src="Assets/chasing planes GIF.gif" width ="250"/>
 
-## Game logic:
+## Lógica do jogo:
 
 Fly the planes using arrow keys and avoid missiles, beat your best score and last longer!
 
