@@ -1,4 +1,4 @@
-# Jogo das Bombas
+#Jogo das Bombas 
 *Se divirta!!!!*** 
   
 # ChasingPlanes👩‍💻Unity3D
@@ -15,7 +15,7 @@ Uma replica do jogo "Mísseis", divertido jogo móvel 2D sobre como evitar os m�
 
 ## Lógica do jogo:
 
-Pilote os aviões usando as setas e evite, vença sua melhor pontuação!
+Pilote os aviões a usar como setas e  vença a sua melhoria!
 
 ## Ferramentas usadas:
 
