@@ -15,9 +15,9 @@ Uma replica do jogo "Mísseis", divertido jogo móvel 2D sobre como evitar os m�
 
 ## Lógica do jogo:
 
-Pilote os aviões usando as setas e evite mísseis, vença sua melhor pontuação!
+Pilote os aviões usando as setas e evite, vença sua melhor pontuação!
 
-## Tools used:
+## Ferramentas usadas:
 
 * Visual studio (IDE)
 
