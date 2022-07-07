@@ -1,13 +1,13 @@
-# Jogo-dos-mseis
+#Jogo das Bombas 
 Se divirta!!!!
-
+  
 # ChasingPlanes_Unity3D
 
 
 
-! [Flávia] ( https://user-images.githubusercontent.com/105249309/177679157-7fbc44ab-1d54-423a-9c87-3334f5cfc31a.gif) 
+!  ( https://user-images.githubusercontent.com/105249309/177679157-7fbc44ab-1d54-423a-9c87-3334f5cfc31a.gif )
 
-Uma réplica do jogo "Mísseis", divertido jogo móvel 2D sobre como evitar mísseis enquanto pilota um avião.
+Uma replica do jogo "Mísseis", divertido jogo móvel 2D sobre como evitar o transpo enquanto pilota um avião.
 
 ## Screenshot:
 
